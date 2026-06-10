@@ -1,4 +1,7 @@
 node_modules/
+**/node_modules/
+.next/
+**/.next/
 dist/
 build/
 .env
@@ -6,5 +9,5 @@ build/
 *.log
 .idea/
 .vscode/
-coverage/       
+coverage/
 *.tsbuildinfo
